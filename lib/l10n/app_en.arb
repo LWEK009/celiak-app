@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appTitle": "NoGlutin",
+  "home": "Home",
+  "recipes": "Recipes",
+  "stores": "Stores",
+  "glutenFreeRecipes": "Gluten-Free Recipes",
+  "groceryStores": "Grocery Stores",
+  "viewDetails": "View Details",
+  "ingredients": "Ingredients",
+  "instructions": "Instructions",
+  "location": "Location",
+  "contact": "Contact",
+  "search": "Search...",
+  "noResults": "No results found",
+  "aboutUs": "About Us",
+  "dedication": "This app was made for Achouri Nour Alhouda (Brika)"
+}

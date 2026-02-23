@@ -1,0 +1,18 @@
+{
+  "@@locale": "fr",
+  "appTitle": "NoGlutin",
+  "home": "Accueil",
+  "recipes": "Recettes",
+  "stores": "Magasins",
+  "glutenFreeRecipes": "Recettes sans Gluten",
+  "groceryStores": "Épiceries",
+  "viewDetails": "Voir les détails",
+  "ingredients": "Ingrédients",
+  "instructions": "Instructions",
+  "location": "Emplacement",
+  "contact": "Contact",
+  "search": "Rechercher...",
+  "noResults": "Aucun résultat trouvé",
+  "aboutUs": "À propos",
+  "dedication": "Cette application a été conçue pour Achouri Nour Alhouda (Brika)"
+}

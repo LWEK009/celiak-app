@@ -1,0 +1,18 @@
+{
+  "@@locale": "ar",
+  "appTitle": "نو جلوتين",
+  "home": "الرئيسية",
+  "recipes": "وصفات",
+  "stores": "متاجر",
+  "glutenFreeRecipes": "وصفات خالية من الجلوتين",
+  "groceryStores": "متاجر المواد الغذائية",
+  "viewDetails": "عرض التفاصيل",
+  "ingredients": "المكونات",
+  "instructions": "التعليمات",
+  "location": "الموقع",
+  "contact": "الاتصال",
+  "search": "بحث...",
+  "noResults": "لا توجد نتائج",
+  "aboutUs": "حول التطبيق",
+  "dedication": "تم إنشاء هذا التطبيق لـ عاشوري نور الهدى (بريكة)"
+}
