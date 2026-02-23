@@ -51,5 +51,5 @@ class AppLocalizationsAr extends AppLocalizations {
   String get aboutUs => 'حول التطبيق';
 
   @override
-  String get dedication => 'تم إنشاء هذا التطبيق لـ عاشوري نور الهدى (بريكة)';
+  String get dedication => 'هذا التطبيق من صنع حازم عبد الوكيل';
 }

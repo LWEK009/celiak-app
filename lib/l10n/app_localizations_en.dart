@@ -51,5 +51,5 @@ class AppLocalizationsEn extends AppLocalizations {
   String get aboutUs => 'About Us';
 
   @override
-  String get dedication => 'This app was made for Achouri Nour Alhouda (Brika)';
+  String get dedication => 'This app is made by Hazem Abdelouakil';
 }

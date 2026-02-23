@@ -52,5 +52,5 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get dedication =>
-      'Cette application a été conçue pour Achouri Nour Alhouda (Brika)';
+      'Cette application est réalisée par Hazem Abdelouakil';
 }

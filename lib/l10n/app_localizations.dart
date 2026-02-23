@@ -187,7 +187,7 @@ abstract class AppLocalizations {
   /// No description provided for @dedication.
   ///
   /// In ar, this message translates to:
-  /// **'تم إنشاء هذا التطبيق لـ عاشوري نور الهدى (بريكة)'**
+  /// **'هذا التطبيق من صنع حازم عبد الوكيل'**
   String get dedication;
 }
 
